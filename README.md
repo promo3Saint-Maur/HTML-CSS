@@ -51,24 +51,24 @@ Après tout cela, vous aurez compris l'essentiel de CSS et pourrez passer serein
 
 ------------------------------------------------------------
 
-EXERCICE 1 - HTML
+EXERCICE 1 - HTML 
 -----------------
 
 **Test 1 :**
 
-Créer deux paragraphes d'une hauteur de 300 pixels et d'une largeur de
+Créer deux paragraphes avec bordure d'une hauteur de 300 pixels et d'une largeur de
 700 pixels. Y inclure un texte très long et gérer son débordement afin
 qu'il soit entièrement lisible.
 
 **Test 2 :**
 
 Créer cinq titres de niveau 2 et les afficher sous forme de liste (voir
-la propriété `display`).
+les propriétés `display` et `list-style-position` ).
 
 **Test 3 :**
 
-Dans un élément `<div>`, inclure un élément `<span>` contenant
-du texte et lui donner le style bloc.
+Dans un élément `<div>`, inclure un élément `<span>` bleu, contenant
+du texte et lui donner le style bloc (ajouter une bordure au span).
 
 **Test 4 :**
 
@@ -76,9 +76,10 @@ Créer un menu vertical dont les éléments sont des liens `<a>`.
 
 **Test 5 :**
 
-Créer une image contenant un paragraphe incluant du texte et deux
+Créer une div contenant un paragraphe incluant du texte et deux
 éléments `<img />` qui se suivent. Faire flotter les images, la
 première à gauche et la seconde à droite.
+Au survol d'une image, la photo grossit.
 
 **Test 6 :**
 
@@ -91,14 +92,9 @@ plan en passant la souris dessus (voir la propriété `z-index`).
 
 **Test 7 :**
 
-Créer une mise en page à trois colonnes de largeurs respectives 20%, 65%
-et 15%. La première et la troisième doivent contenir respectivement un
-menu et une liste de liens crées à partir d'images. La colonne centrale
-doit posséder un contenu éditorial.
-
-**Test 8 :**
-
 Créer une mise en page selon le modèle de la figure ci-dessous:
+
+![figure suivante](https://i.goopics.net/mOWEE.png)
 
 
 La colonne de gauche (repère 1) a une largeur de 200 pixels et le
